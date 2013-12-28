@@ -1,7 +1,7 @@
 Installing-Ruby-and-Rails
 =========================
 
-Install Ruby and Ruby on Rails on Linux
+Install Ruby and Ruby on Rails on a Vagrant Machine
 
 Run first script
 
